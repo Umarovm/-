@@ -1,1 +1,1 @@
-Random Things
+random things
