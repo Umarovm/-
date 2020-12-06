@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>&#0; ><'";$SHELL %x $(id) %00!#\</string>
+				<string>test</string>
 			</dict>
 		</dict>
 	</array>
